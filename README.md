@@ -24,3 +24,14 @@ This project is an implementation of Conway's Game of Life with an interactive G
    ```bash
    git clone https://github.com/Dimitrije-Jimmy/Conway-s-Game-of-Life.git
    cd game_of_life
+
+## Future Updates
+
+Might revisit project and rebuild it in C++, Python makes for slow calculations and low framerates.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
+
+## Acknowledgements
+* John Conway for creating the Game of Life
+* [playgameoflife.com](https://playgameoflife.com/)
