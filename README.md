@@ -40,7 +40,12 @@ In this project, I also explored web scraping to fetch preset examples from the 
 Might revisit project and rebuild it in C++, Python makes for slow calculations and low framerates.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
+The contents of the repository are licensed under a [MIT License][MIT].
+
+[![MIT License][MIT-shield]][MIT]
+
+[MIT]: https://opensource.org/license/mit
+[MIT-shield]: https://img.shields.io/badge/license-MIT-blue.svg
 
 ## Acknowledgements
 * John Conway for creating the Game of Life
